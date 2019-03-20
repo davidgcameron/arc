@@ -81,6 +81,12 @@ is welcomed. Sources can be downloaded from the software repository
 at <http://download.nordugrid.org> or the Coderefinery gitlab repository
 at <https://https://source.coderefinery.org/nordugrid/arc>
 
+Regular ARC developers should have an account on Coderefinery and use
+the defined procedures for contributing. Those wishing to submit occasional
+patches can do so by submitting pull requests on the GitHub mirror at
+<https://github.com/nordugrid/arc>. Those pull requests will be merged
+by the ARC release team into the Coderefinery repository.
+
 The Technical Coordination Group (TCG) defines outstanding issues that 
 have to be addressed in the framework of ARC development. Feature
 requests and enhancement proposals are recorded in the Bugzilla bug
